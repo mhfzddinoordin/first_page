@@ -1,0 +1,2 @@
+root: D:\MDEC\Workshop\First_Page_Resume\nvm
+path: C:\Program Files\nodejs
